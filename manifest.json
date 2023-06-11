@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube Sercher",
+  "version": "2.3",
+  "description": "Extensión para buscar videos en YouTube al alcanse de tu click es mas sensillo que tener que entrar a youtube y buscar por su peresoso buscador aqui encuentras busquedas claras y sencillas",
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*"
+],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

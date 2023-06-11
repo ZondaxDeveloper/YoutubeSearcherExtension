@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Buscador de YouTube</title>
+  <style>
+    body {
+      width: 300px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    h1 {
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+    
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      font-size: 16px;
+    }
+    
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 20px;
+      background-color: #ff0000;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #aa2a26;
+    }
+  </style>
+  <script src="popup.js"></script>
+</head>
+<body>
+  <h1>Buscador de YouTube</h1>
+  <input type="text" id="searchQuery" placeholder="Buscar en YouTube">
+  <button id="searchButton">Buscar</button>
+  
+</body>
+</html>
