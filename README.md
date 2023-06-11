@@ -9,6 +9,7 @@ Búsqueda rápida: Ingresa tus consultas de búsqueda directamente desde la barr
 Resultados instantáneos: Obtén los resultados de búsqueda de YouTube de forma rápida y eficiente.
 Acceso directo a YouTube: Haz clic en el botón de la extensión para abrir YouTube en una nueva pestaña y ver todos los resultados.
 Capturas de pantalla
+
 ![funct](https://github.com/ZondaxDeveloper/YoutubeSearcherExtension/assets/85247633/24b72b43-5be5-4099-995b-0b10d69369b7)
 
 Instalación
